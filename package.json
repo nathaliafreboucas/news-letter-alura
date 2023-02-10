@@ -1,0 +1,13 @@
+{
+  "name": "aluranewsletter-49ad22e834517cd7204f1f723a1b8a0a0c1178ce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "tailwind": "tailwind -i ./src/style.css -o ./public/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
